@@ -95,13 +95,13 @@
 
 <p align="center">
   <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&theme=calm&locale=en&layout=compact" alt="Top Languages" style="margin-right: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&theme=algolia&locale=en&layout=compact" alt="Top Languages" style="margin-right: 15px;" />
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=calm&locale=en" alt="GitHub Stats" style="margin-left: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=algolia&locale=en" alt="GitHub Stats" style="margin-left: 15px;" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=calm" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=algolia" alt="GitHub Streak" />
 </p>
