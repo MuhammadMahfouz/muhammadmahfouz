@@ -94,10 +94,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" style="margin-right: 10px; border-radius: 8px; border: 1px solid #444;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" style="border-radius: 8px; border: 1px solid #444;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=radical" alt="GitHub Streak" style="border-radius: 8px; border: 1px solid #444;" />
 </p>
