@@ -94,10 +94,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" style="margin-right: 10px; border-radius: 8px; border: 1px solid #333;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" style="border-radius: 8px; border: 1px solid #333;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" style="margin-right: 10px; border-radius: 8px; border: 1px solid #4a4a4a;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" style="border-radius: 8px; border: 1px solid #4a4a4a;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=tokyonight" alt="GitHub Streak" style="border-radius: 8px; border: 1px solid #333;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=dark" alt="GitHub Streak" style="border-radius: 8px; border: 1px solid #4a4a4a;" />
 </p>
