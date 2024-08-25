@@ -91,4 +91,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&theme=default&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=default&
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=default&locale=en" alt="GitHub Stats" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=default" alt="GitHub Streak" /></p>
