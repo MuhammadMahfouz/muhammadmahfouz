@@ -98,4 +98,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=dark" alt="GitHub Streak" />
+</p>
