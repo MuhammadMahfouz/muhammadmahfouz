@@ -100,7 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=algolia&locale=en" alt="GitHub Stats" style="margin-left: 15px;" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahfouz&theme=algolia" alt="GitHub Streak" />
