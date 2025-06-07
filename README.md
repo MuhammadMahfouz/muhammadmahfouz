@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🎓 Currently pursuing a Master of Science (M.Sc.) in Computer Science at [AASTMT](https://aast.edu/en/)
+- 🎓 Currently pursuing a M.Sc. in Computer Science at [AASTMT](https://aast.edu/en/)
 - 🔭 I’m currently working on [Mexican Housing Insights](https://github.com/MuhammadMahfouz/Mexican_Housing_Insights)
 - 🌱 I’m currently learning **NLP**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/MuhammadMahfouz)
