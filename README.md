@@ -13,7 +13,7 @@
 </p>
 
 - 🎓 Currently pursuing a M.Sc. in Computer Science at [AASTMT](https://aast.edu/en/)
-- 🔭 I’m currently working on [Mexican Housing Insights](https://github.com/MuhammadMahfouz/Mexican_Housing_Insights)
+- 🔭 I’m currently working on [C Basics to Advanced](https://github.com/MuhammadMahfouz/c-basics-to-advanced/tree/main)
 - 🌱 I’m currently learning **NLP**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/MuhammadMahfouz)
 - 📝 I regularly write articles on [Medium](https://medium.com/@MuhammadMahfouzOfficial)
