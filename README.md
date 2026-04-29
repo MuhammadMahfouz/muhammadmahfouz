@@ -1,110 +1,96 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mahfouz</h1>
-<h3 align="center">Innovative Data Scientist, ML Engineer, and Automation Specialist | Enhancing Telecom Solutions</h3>
+<h3 align="center">
+AI & Automation Engineer | Data Scientist | ML Engineer  
+<br/>
+Building Intelligent Systems for Telecom & Enterprise-Scale Solutions
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/MuhammadMahfouz/muhammadmahfouz/blob/main/coding.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammadmahfouz&label=Profile%20Views&color=4CAF50&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadmahfouz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="left">
   <a href="https://twitter.com/mahfouzofficial" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mahfouzofficial?logo=twitter&style=plastic&color=00acee" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/mahfouzofficial?logo=twitter&style=flat&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
-- 🎓 Currently pursuing a M.Sc. in Computer Science at [AASTMT](https://aast.edu/en/)
-- 🔭 I’m currently working on [C Basics to Advanced](https://github.com/MuhammadMahfouz/c-basics-to-advanced/tree/main)
-- 🌱 I’m currently learning **NLP**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MuhammadMahfouz)
-- 📝 I regularly write articles on [Medium](https://medium.com/@MuhammadMahfouzOfficial)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me
+- 🎓 M.Sc. in Computer Science @ **Arab Academy for Science, Technology & Maritime Transport (AASTMT)**
+- 🤖 AI & Automation Engineer with **2+ years** experience in:
+  - Machine Learning & Data Science
+  - RPA & Workflow Automation (IBM RPA, HP OO)
+  - Telecom Analytics & Anomaly Detection
+- 🧠 Built **AI Assistants (RAG, SQL Agent, Data Analysis Agent, Visualization Agent)**  
+- ⚡ Optimized enterprise automation workflows → **Saved 6+ hours execution time**
+- 📊 Delivered **Anomaly Detection & Alarm Correlation Systems** for telecom environments
+- 🔍 Strong focus on **scalable architectures, ETL pipelines, and intelligent monitoring systems**
+
+---
+
+### 🔭 Current Work
+- 🚧 Developing: **C Programming — From Basics to Advanced**
+- 🧠 Exploring: **Advanced NLP & LLM-based Systems**
+- ⚙️ Enhancing: AI-powered analytics & automation platforms
+
+---
+
+### 🌐 Portfolio & Content
+- 👨‍💻 Projects: https://github.com/MuhammadMahfouz  
+- 📝 Articles: https://medium.com/@MuhammadMahfouzOfficial  
+
+---
+
+### 🤝 Connect With Me
 <p align="left">
   <a href="https://twitter.com/mahfouzofficial" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/muhammadmahfouzofficial" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/muhammadmahfouz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
   </a>
   <a href="https://medium.com/@muhammadmahfouzofficial" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/muhammadmahfouz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="JAVA" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+Python • Java • C • SQL • Bash  
+
+#### 🤖 AI / ML
+PyTorch • TensorFlow • Scikit-learn • NLP • LLMs • RAG Systems  
+
+#### 📊 Data & Analytics
+Pandas • ETL (IBM DataStage) • Data Modeling • Anomaly Detection  
+
+#### ⚙️ Automation & DevOps
+IBM RPA • HP Operations Orchestration • Linux • Git  
+
+#### ☁️ Cloud & Databases
+AWS • MongoDB • PostgreSQL • MySQL • SQL Server • SQLite  
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&theme=algolia&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=algolia" />
 </p>
 
 <p align="center">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmahfouz&show_icons=true&size_weight=0.5&count_weight=0.5&theme=algolia&locale=en&layout=compact" alt="Top Languages" style="margin-right: 15px;" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahfouz&show_icons=true&theme=algolia&locale=en" alt="GitHub Stats" style="margin-left: 15px;" />
-</p>
-
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=muhammadmahfouz&theme=algolia" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=muhammadmahfouz&theme=algolia" />
 </p>
