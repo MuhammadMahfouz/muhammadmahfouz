@@ -21,7 +21,7 @@ Building Intelligent Systems for Telecom & Enterprise-Scale Solutions
 
 ### 🚀 About Me
 - 🎓 M.Sc. in Computer Science @ **Arab Academy for Science, Technology & Maritime Transport (AASTMT)**
-- 🤖 AI & Automation Engineer with **2+ years** experience in:
+- 🤖 AI & Automation Engineer with **4+ years** experience in:
   - Machine Learning & Data Science
   - RPA & Workflow Automation (IBM RPA, HP OO)
   - Telecom Analytics & Anomaly Detection
